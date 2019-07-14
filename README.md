@@ -1,9 +1,9 @@
-﻿# Simulation de la mémoire cache d'un processeur Intel Kaby Lake
+﻿# Simulation of cache memory of an Intel Kaby Lake Processor
 
-Simulation of Intel Kaby Lake cache coded in C (Description for more details about the structure)
+Simulation of Intel Kaby Lake cache coded in C (Description for more details about the structure)<br/>
 Project of system oriented programming course at EPFL
 
-## Autheurs
+## Authors
 
 * **Christophe Saad**
 * **Auguste Lefevre**
